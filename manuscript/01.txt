@@ -1,1 +1,4 @@
 #എന്തുകൊണ്ട് പ്രോഗ്രാമ്മിംഗ് പഠിക്കണം?
+##Automation via machines
+##General purpose machines
+##Improve thinking & debugging
