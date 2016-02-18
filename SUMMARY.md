@@ -8,6 +8,6 @@
 * [കരെൽ എന്ന റോബോട്ട്](manuscript/05.txt)
 * [അടിസ്ഥാന വസ്തുതകള്‍ / നിർദേശങ്ങൾ](manuscript/06.txt)
 * [ഫങ്ഷൻ](manuscript/07.txt)
-* [Chapter 7](manuscript/08.txt)
+* [ഒബ്ജെക്റ്റുകൾ](manuscript/08.txt)
 * [Chapter 9](manuscript/09.txt)
 * [Chapter 10](manuscript/10.txt)
