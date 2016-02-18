@@ -11,4 +11,4 @@
 * [ഫങ്ഷൻ](manuscript/07.txt)
 * [ഒബ്ജെക്റ്റുകൾ](manuscript/08.txt)
 * [തെറ്റ് തിരുത്തൽ](manuscript/09.txt)
-* [Chapter 10](manuscript/10.txt)
+* [വെബ്‌ സൈറ്റ് നിര്‍മ്മാണത്തില്‍  ജാവാസ്ക്രിപ്റ്റ് ](manuscript/10.txt)
