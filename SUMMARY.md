@@ -1,7 +1,7 @@
 # Summary
 
 
-* [Chapter 1](manuscript/01.md)
+* [എന്തുകൊണ്ട് പ്രോഗ്രാമെഴുത്ത് പഠിക്കണം?](manuscript/01.md)
 * [Chapter 2](manuscript/02.md)
 * [Chapter 3](manuscript/03.md)
 * [Chapter 4](manuscript/04.txt)
