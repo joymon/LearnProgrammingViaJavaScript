@@ -5,7 +5,7 @@
 * [എന്താണ് പ്രോഗ്രാമ്മിംഗ്](manuscript/02.md)
 * [മുൻവ്യവസ്ഥകൾ/ആവശ്യമായ സംഗതികള്‍](manuscript/03.md)
 * [എന്തുകൊണ്ട് ജാവാസ്ക്രിപ്റ്റ്](manuscript/04.txt)
-* [Chapter 5](manuscript/05.txt)
+* [കരെൽ എന്ന റോബോട്ട്](manuscript/05.txt)
 * [Chapter 6](manuscript/06.txt)
 * [Chapter 7](manuscript/07.txt)
 * [Chapter 7](manuscript/08.txt)
