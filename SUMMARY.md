@@ -9,5 +9,5 @@
 * [അടിസ്ഥാന വസ്തുതകള്‍ / നിർദേശങ്ങൾ](manuscript/06.txt)
 * [ഫങ്ഷൻ](manuscript/07.txt)
 * [ഒബ്ജെക്റ്റുകൾ](manuscript/08.txt)
-* [Chapter 9](manuscript/09.txt)
+* [തെറ്റ് തിരുത്തൽ](manuscript/09.txt)
 * [Chapter 10](manuscript/10.txt)
