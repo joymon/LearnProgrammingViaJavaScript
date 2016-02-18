@@ -7,7 +7,7 @@
 * [എന്തുകൊണ്ട് ജാവാസ്ക്രിപ്റ്റ്](manuscript/04.txt)
 * [കരെൽ എന്ന റോബോട്ട്](manuscript/05.txt)
 * [അടിസ്ഥാന വസ്തുതകള്‍ / നിർദേശങ്ങൾ](manuscript/06.txt)
-* [Array](manuscript/061.md)
+* [അറ](manuscript/061.md)
 * [ഫങ്ഷൻ](manuscript/07.txt)
 * [ഒബ്ജെക്റ്റുകൾ](manuscript/08.txt)
 * [തെറ്റ് തിരുത്തൽ](manuscript/09.txt)
