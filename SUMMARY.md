@@ -2,7 +2,7 @@
 
 
 * [എന്തുകൊണ്ട് പ്രോഗ്രാമെഴുത്ത് പഠിക്കണം?](manuscript/01.md)
-* [Chapter 2](manuscript/02.md)
+* [എന്താണ് പ്രോഗ്രാമ്മിംഗ്](manuscript/02.md)
 * [Chapter 3](manuscript/03.md)
 * [Chapter 4](manuscript/04.txt)
 * [Chapter 5](manuscript/05.txt)
