@@ -1,11 +1,13 @@
 01.md
+020-WhatIsComputer.md
 02.md
+025-RunningProgram.md
 03.md
 031-ThinkLikeProgrammer.md
 04-WhyJavaScript.md
 05-KarelRobot.md
 051-KarelTasks.md
-06.txt
+06-JSBasics.md
 060-if.md
 060-switch.md
 062-Loops.md
