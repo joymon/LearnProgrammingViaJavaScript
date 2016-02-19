@@ -13,6 +13,6 @@
 062-Loops.md
 061-Array.md
 07.txt
-08-objects.txt
+08-objects.md
 09-debugging.md
 10.txt
