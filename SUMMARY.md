@@ -4,6 +4,7 @@
 * [പ്രോഗ്രാമ്മറുടെ ചിന്താരീതി](manuscript/031-ThinkLikeProgrammer.md)
 * [എന്തുകൊണ്ട് ജാവാസ്ക്രിപ്റ്റ്](manuscript/04.txt)
 * [കരെൽ എന്ന റോബോട്ട്](manuscript/05.txt)
+ * [കരെലിനു ചെയ്യാവുന്ന ജോലികള്‍](051-KarelTasks.md)
 * [അടിസ്ഥാന വസ്തുതകള്‍ / നിർദേശങ്ങൾ](manuscript/06.txt)
  * [താരതമ്യങ്ങള്‍](manuscript/060-if.md)
  * [ബഹുതാരതമ്യങ്ങള്‍](manuscript/063-switch.md)
