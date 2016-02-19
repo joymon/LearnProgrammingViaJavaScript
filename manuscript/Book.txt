@@ -2,8 +2,8 @@
 02.md
 03.md
 031-ThinkLikeProgrammer.md
-04.txt
-05.txt
+04-WhyJavaScript.md
+05-KarelRobot.md
 051-KarelTasks.md
 06.txt
 060-if.md
@@ -12,5 +12,5 @@
 061-Array.md
 07.txt
 08-objects.txt
-09.txt
+09-debugging.md
 10.txt
