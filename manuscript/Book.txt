@@ -5,6 +5,7 @@
 05.txt
 06.txt
 060-if.md
+060-switch.md
 062-Loops.md
 061-Array.md
 07.txt
