@@ -11,6 +11,6 @@
  * [ലൂപ്](manuscript/062-loops.md)
  * [അറ](manuscript/061-Array.md)
 * [ഫങ്ഷൻ](manuscript/07.txt)
-* [ഒബ്ജെക്റ്റുകൾ](manuscript/08.txt)
+* [ഒബ്ജെക്റ്റുകൾ](manuscript/08-objects.txt)
 * [തെറ്റ് തിരുത്തൽ](manuscript/09.txt)
 * [വെബ്‌ സൈറ്റ് നിര്‍മ്മാണത്തില്‍  ജാവാസ്ക്രിപ്റ്റ് ](manuscript/10.txt)

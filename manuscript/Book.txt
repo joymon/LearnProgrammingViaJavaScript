@@ -4,12 +4,13 @@
 031-ThinkLikeProgrammer.md
 04.txt
 05.txt
+051-KarelTasks.md
 06.txt
 060-if.md
 060-switch.md
 062-Loops.md
 061-Array.md
 07.txt
-08.txt
+08-objects.txt
 09.txt
 10.txt
