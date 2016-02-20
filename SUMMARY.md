@@ -7,7 +7,7 @@
 * [എന്തുകൊണ്ട് ജാവാസ്ക്രിപ്റ്റ്](manuscript/04-WhyJavaScript.md)
 * [കരെൽ എന്ന റോബോട്ട്](manuscript/05-KarelRobot.md)
  * [കരെലിനു ചെയ്യാവുന്ന ജോലികള്‍](manuscript/051-KarelTasks.md)
-* [അടിസ്ഥാന വസ്തുതകള്‍ / നിർദേശങ്ങൾ](manuscript/06-JSBasics.md)
+* [ജാവാസ്ക്രിപ്റ്റ് അടിസ്ഥാന വസ്തുതകള്‍ / നിർദേശങ്ങൾ](manuscript/06-JSBasics.md)
  * [താരതമ്യങ്ങള്‍](manuscript/060-if.md)
  * [ബഹുതാരതമ്യങ്ങള്‍](manuscript/063-switch.md)
  * [ലൂപ്](manuscript/062-Loops.md)
