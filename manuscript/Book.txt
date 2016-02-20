@@ -12,7 +12,7 @@
 063-switch.md
 062-Loops.md
 061-Array.md
-07.txt
+07-functions.md
 08-objects.md
 09-debugging.md
 10.txt
