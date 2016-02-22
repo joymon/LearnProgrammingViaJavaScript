@@ -17,6 +17,7 @@
  * [ലൂപ്](manuscript/067-Loops.md)
  * [അറ](manuscript/069-Array.md)
 * [ഫങ്ഷൻ](manuscript/07-functions.md)
+ * [വിവിധ തരം ഫങ്ഷനുകള്‍](manuscript/073-typesOfFunctions.md) 
 * [ഒബ്ജെക്റ്റുകൾ](manuscript/08-objects.md)
 * [തെറ്റ് തിരുത്തൽ](manuscript/09-debugging.md)
 * [വെബ്‌ സൈറ്റ് നിര്‍മ്മാണത്തില്‍  ജാവാസ്ക്രിപ്റ്റ് ](manuscript/10.txt)
