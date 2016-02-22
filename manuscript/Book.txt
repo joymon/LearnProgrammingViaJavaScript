@@ -11,7 +11,7 @@
 060-if.md
 068-switch.md
 062-Loops.md
-061-Array.md
+069-Array.md
 07-functions.md
 08-objects.md
 09-debugging.md
