@@ -20,5 +20,5 @@
 073-typesOfFunctions.md
 08-objects.md
 09-debugging.md
-10.txt
+10.md
 Appendix/01-advancedOperators.md
