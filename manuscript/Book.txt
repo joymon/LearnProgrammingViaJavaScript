@@ -9,7 +9,7 @@
 051-KarelTasks.md
 06-JSBasics.md
 060-if.md
-063-switch.md
+068-switch.md
 062-Loops.md
 061-Array.md
 07-functions.md
