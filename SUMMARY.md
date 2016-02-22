@@ -10,6 +10,7 @@
 * [ജാവാസ്ക്രിപ്റ്റ് അടിസ്ഥാന വസ്തുതകള്‍ / നിർദേശങ്ങൾ](manuscript/06-JSBasics.md)
  * [വിവരണം / കമന്റ്‌](manuscript/061-comment.md)
  * [ചരം / വേരിയബിള്‍](manuscript/062-var.md)
+ * [ചരങ്ങളില്‍ വിവിധതരം ഡാറ്റകള്‍](manuscript/064-datatypes.md)
  * [ഗണിതചിഹ്നങ്ങള്‍](manuscript/063-operators.md)
  * [താരതമ്യങ്ങള്‍](manuscript/065-if.md)
  * [ബഹുതാരതമ്യങ്ങള്‍](manuscript/066-switch.md)
