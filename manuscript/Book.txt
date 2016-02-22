@@ -17,6 +17,7 @@
 067-Loops.md
 069-Array.md
 07-functions.md
+073-typesOfFunctions.md
 08-objects.md
 09-debugging.md
 10.txt
