@@ -9,6 +9,8 @@
 051-KarelTasks.md
 06-JSBasics.md
 061-comment.md
+062-var.md
+063-operators.md
 065-if.md
 066-switch.md
 067-Loops.md
