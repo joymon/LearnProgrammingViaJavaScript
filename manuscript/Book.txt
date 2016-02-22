@@ -21,3 +21,4 @@
 08-objects.md
 09-debugging.md
 10.txt
+Appendix/01-advancedOperators.md
