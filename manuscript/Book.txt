@@ -10,6 +10,7 @@
 06-JSBasics.md
 061-comment.md
 062-var.md
+064-datatypes.md
 063-operators.md
 065-if.md
 066-switch.md
