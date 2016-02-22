@@ -8,9 +8,9 @@
 05-KarelRobot.md
 051-KarelTasks.md
 06-JSBasics.md
-060-if.md
-068-switch.md
-062-Loops.md
+065-if.md
+066-switch.md
+067-Loops.md
 069-Array.md
 07-functions.md
 08-objects.md
