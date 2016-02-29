@@ -12,6 +12,7 @@
  * [ചരം / വേരിയബിള്‍](manuscript/062-var.md)
  * [ചരങ്ങളില്‍ വിവിധതരം ഡാറ്റകള്‍](manuscript/064-datatypes.md)
  * [ഗണിതചിഹ്നങ്ങള്‍](manuscript/063-operators.md)
+ * [വിശകലന ചിഹ്നങ്ങള്‍](manuscript/06.13-comparison operators)
  * [താരതമ്യങ്ങള്‍](manuscript/065-if.md)
  * [ബഹുതാരതമ്യങ്ങള്‍](manuscript/066-switch.md)
  * [ലൂപ്](manuscript/067-Loops.md)

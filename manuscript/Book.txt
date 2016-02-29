@@ -12,6 +12,7 @@
 062-var.md
 064-datatypes.md
 063-operators.md
+06.13-comparison operators.md
 065-if.md
 066-switch.md
 067-Loops.md
