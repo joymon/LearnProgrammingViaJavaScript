@@ -11,7 +11,7 @@
  * [വിവരണം / കമന്റ്‌](manuscript/061-comment.md)
  * [ചരം / വേരിയബിള്‍](manuscript/062-var.md)
  * [ചരങ്ങളില്‍ വിവിധതരം ഡാറ്റകള്‍](manuscript/064-datatypes.md)
- * [ഗണിതചിഹ്നങ്ങള്‍](manuscript/063-operators.md)
+ * [വ്യാകരണചിഹ്നങ്ങള്‍](manuscript/063-operators.md)
  * [ഗണിതചിഹ്നങ്ങള്‍](manuscript/06.06-MathOperators.md)
  * [വിശകലന ചിഹ്നങ്ങള്‍](manuscript/06.13-ComparisonOperators.md)
  * [താരതമ്യങ്ങള്‍](manuscript/065-if.md)
