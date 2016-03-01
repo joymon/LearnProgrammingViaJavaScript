@@ -17,7 +17,7 @@
  * [താരതമ്യങ്ങള്‍](manuscript/06.20-if.md)
  * [ബഹുതാരതമ്യങ്ങള്‍](manuscript/06.30-switch.md)
  * [ലൂപ്](manuscript/06.40-Loops.md)
- * [അറ](manuscript/06.50-Array.md)
+ * [അറ](manuscript/06.60-Array.md)
 * [ഫങ്ഷൻ](manuscript/07-functions.md)
  * [വിവിധ തരം ഫങ്ഷനുകള്‍](manuscript/073-typesOfFunctions.md) 
 * [ഒബ്ജെക്റ്റുകൾ](manuscript/08-objects.md)
