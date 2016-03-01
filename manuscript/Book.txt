@@ -14,10 +14,10 @@
 06.05-operators.md
 06.06-mathOperators.md
 06.13-comparisonOperators.md
-065-if.md
-066-switch.md
-067-Loops.md
-069-Array.md
+06.20-if.md
+06.30-switch.md
+06.40-Loops.md
+06.60-Array.md
 07-functions.md
 073-typesOfFunctions.md
 08-objects.md
