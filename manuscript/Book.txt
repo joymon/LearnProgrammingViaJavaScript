@@ -7,11 +7,11 @@
 04-WhyJavaScript.md
 05-KarelRobot.md
 051-KarelTasks.md
-06-JSBasics.md
-061-comment.md
-062-var.md
-064-datatypes.md
-063-operators.md
+06.00-JSBasics.md
+06.01-comment.md
+06.03-var.md
+06.04-datatypes.md
+06.05-operators.md
 06.06-mathOperators.md
 06.13-comparisonOperators.md
 065-if.md
