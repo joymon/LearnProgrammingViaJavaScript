@@ -18,8 +18,8 @@
 06.30-switch.md
 06.40-Loops.md
 06.60-Array.md
-07-functions.md
-073-typesOfFunctions.md
+07.01-functions.md
+07.10-typesOfFunctions.md
 08-objects.md
 09-debugging.md
 10.md
