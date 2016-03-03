@@ -1,7 +1,7 @@
 01.md
-020-WhatIsComputer.md
-02.md
-025-RunningProgram.md
+02.01-WhatIsComputer.md
+02.05-WhatIsProgramming.md
+02.15-RunningProgram.md
 03-prerequisites.md
 031-ThinkLikeProgrammer.md
 04-WhyJavaScript.md
