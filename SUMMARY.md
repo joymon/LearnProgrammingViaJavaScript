@@ -1,4 +1,4 @@
-﻿* [എന്തുകൊണ്ട് പ്രോഗ്രാമെഴുത്ത് പഠിക്കണം?](manuscript/01.md)
+* [എന്തുകൊണ്ട് പ്രോഗ്രാമെഴുത്ത് പഠിക്കണം?](manuscript/01.md)
 * [എന്താണ് ഒരു കമ്പ്യൂട്ടര്‍](manuscript/02.01-WhatIsComputer.md)
 * [എന്താണ് പ്രോഗ്രാമ്മിംഗ്](manuscript/02.05-WhatIsProgramming.md)
  * [പ്രോഗ്രാം പ്രവര്‍ത്തിപ്പിക്കല്‍](manuscript/02.15-RunningProgram.md)
