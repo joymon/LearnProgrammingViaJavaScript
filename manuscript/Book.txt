@@ -21,7 +21,7 @@
 07.01-functions.md
 07.10-typesOfFunctions.md
 07.20-stringFunctions.md
-08-objects.md
+08.01-objects.md
 09-debugging.md
 10.md
 Appendix/01-advancedOperators.md
