@@ -3,7 +3,7 @@
 * [എന്താണ് പ്രോഗ്രാമ്മിംഗ്](manuscript/02.05-WhatIsProgramming.md)
  * [പ്രോഗ്രാം പ്രവര്‍ത്തിപ്പിക്കല്‍](manuscript/02.15-RunningProgram.md)
 * [മുൻവ്യവസ്ഥകൾ/ആവശ്യമായ സംഗതികള്‍](manuscript/03.01-prerequisites.md)
-* [പ്രോഗ്രാമ്മറുടെ ചിന്താരീതി](manuscript/03.10-ThinkLikeProgrammer.md)
+ * [പ്രോഗ്രാമ്മറുടെ ചിന്താരീതി](manuscript/03.10-ThinkLikeProgrammer.md)
 * [എന്തുകൊണ്ട് ജാവാസ്ക്രിപ്റ്റ്](manuscript/04-WhyJavaScript.md)
 * [കരെൽ എന്ന റോബോട്ട്](manuscript/05-KarelRobot.md)
  * [കരെലിനു ചെയ്യാവുന്ന ജോലികള്‍](manuscript/051-KarelTasks.md)
