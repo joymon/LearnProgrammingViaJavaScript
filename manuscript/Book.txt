@@ -2,8 +2,8 @@
 02.01-WhatIsComputer.md
 02.05-WhatIsProgramming.md
 02.15-RunningProgram.md
-03-prerequisites.md
-031-ThinkLikeProgrammer.md
+03.01-prerequisites.md
+03.10-ThinkLikeProgrammer.md
 04-WhyJavaScript.md
 05-KarelRobot.md
 051-KarelTasks.md
