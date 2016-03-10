@@ -20,7 +20,7 @@
  * [അറ](manuscript/06.60-Array.md)
 * [ഫങ്ഷൻ](manuscript/07.01-functions.md)
  * [വിവിധ തരം ഫങ്ഷനുകള്‍](manuscript/07.10-typesOfFunctions.md) 
- *[വാചകകസര്‍ത്തുകള്‍](manuscript/07.20-stringFunctions.md)
+ *  [വാചകകസര്‍ത്തുകള്‍](manuscript/07.20-stringFunctions.md)
 * [ഒബ്ജെക്റ്റുകൾ](manuscript/08.01-objects.md)
  * [ജെസോന്‍](manuscript/08.10-json.md)
 * [തെറ്റ് തിരുത്തൽ](manuscript/09-debugging.md)
