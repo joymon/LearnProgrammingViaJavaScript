@@ -5,8 +5,8 @@
 03.01-prerequisites.md
 03.10-ThinkLikeProgrammer.md
 04-WhyJavaScript.md
-05-KarelRobot.md
-051-KarelTasks.md
+05.01-KarelRobot.md
+05.10-KarelTasks.md
 06.00-JSBasics.md
 06.01-comment.md
 06.03-var.md
