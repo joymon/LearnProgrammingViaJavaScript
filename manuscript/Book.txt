@@ -9,6 +9,7 @@
 05.10-KarelTasks.md
 06.00-JSBasics.md
 06.01-comment.md
+06.02-keywords.md
 06.03-var.md
 06.04-datatypes.md
 06.05-operators.md

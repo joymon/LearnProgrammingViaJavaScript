@@ -9,6 +9,7 @@
  * [കരെലിനു ചെയ്യാവുന്ന ജോലികള്‍](manuscript/05.10-KarelTasks.md)
 * [ജാവാസ്ക്രിപ്റ്റ് അടിസ്ഥാന വസ്തുതകള്‍ / നിർദേശങ്ങൾ](manuscript/06.00-JSBasics.md)
  * [വിവരണം / കമന്റ്‌](manuscript/06.01-comment.md)
+ * [സൂചകപദങ്ങള്‍](manuscript/06.02-keywords.md)
  * [ചരം / വേരിയബിള്‍](manuscript/06.03-var.md)
  * [ചരങ്ങളില്‍ വിവിധതരം ഡാറ്റകള്‍](manuscript/06.04-datatypes.md)
  * [വ്യാകരണചിഹ്നങ്ങള്‍](manuscript/06.05-operators.md)
