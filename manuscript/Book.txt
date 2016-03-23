@@ -27,5 +27,6 @@
 09.01-debugging.md
 09.05-consoleWindow.md
 09.10-watchWindow.md
+09.40-stepByStep.md
 10.md
 Appendix/01-advancedOperators.md
