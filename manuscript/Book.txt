@@ -30,3 +30,4 @@
 09.40-stepByStep.md
 10.md
 Appendix/01-advancedOperators.md
+Appendix/02-strictMode.md
