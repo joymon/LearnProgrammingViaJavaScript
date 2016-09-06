@@ -23,6 +23,7 @@
  * [വിവിധ തരം ഫങ്ഷനുകള്‍](manuscript/07.10-typesOfFunctions.md) 
  *  [വാചകകസര്‍ത്തുകള്‍](manuscript/07.20-stringFunctions.md)
 * [ഒബ്ജെക്റ്റുകൾ](manuscript/08.01-objects.md)
+ * [നിര്‍മാണം](manuscript/08.02-creation.md)
  * [ജെസോന്‍](manuscript/08.10-json.md)
 * [തെറ്റ് തിരുത്തൽ](manuscript/09.01-debugging.md)
  * [കണ്‍സോള്‍ വിന്‍ഡോ](manuscript/09.05-consoleWindow.md)

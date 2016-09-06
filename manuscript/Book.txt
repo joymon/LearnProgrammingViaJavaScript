@@ -23,6 +23,7 @@
 07.10-typesOfFunctions.md
 07.20-stringFunctions.md
 08.01-objects.md
+08.02-creation.md
 08.10-json.md
 09.01-debugging.md
 09.05-consoleWindow.md
