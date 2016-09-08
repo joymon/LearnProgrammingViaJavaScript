@@ -26,7 +26,7 @@
  * [നിര്‍മാണം](manuscript/08.02-creation.md)
  * [ഉപയോഗം](manuscript/08.03-usingObjects.md)
  * [this എന്ന മാജിക്‌](manuscript/08.05-this.md)
- * [പാരമ്പര്യം / Inheritance]manuscript/08.07-inheritance.md)
+ * [പാരമ്പര്യം / Inheritance](manuscript/08.07-inheritance.md)
  * [ജെസോന്‍](manuscript/08.10-json.md)
 * [തെറ്റ് തിരുത്തൽ](manuscript/09.01-debugging.md)
  * [കണ്‍സോള്‍ വിന്‍ഡോ](manuscript/09.05-consoleWindow.md)
