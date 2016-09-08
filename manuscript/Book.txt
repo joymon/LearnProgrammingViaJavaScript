@@ -24,6 +24,9 @@
 07.20-stringFunctions.md
 08.01-objects.md
 08.02-creation.md
+08.03-usingObjects.md
+08.05-this.md
+08.07-inheritance.md
 08.10-json.md
 09.01-debugging.md
 09.05-consoleWindow.md
