@@ -28,6 +28,7 @@
  * [this എന്ന മാജിക്‌](manuscript/08.05-this.md)
  * [പാരമ്പര്യം / Inheritance](manuscript/08.07-inheritance.md)
  * [ജെസോന്‍](manuscript/08.10-json.md)
+* [വ്യത്യസ്ഥതകള്‍](manuscript/09.01-Exception.md)
 * [തെറ്റ് തിരുത്തൽ](manuscript/10.01-debugging.md)
  * [കണ്‍സോള്‍ വിന്‍ഡോ](manuscript/10.05-consoleWindow.md)
  * [വാച്ച് വിൻഡോ](manuscript/10.10-watchWindow.md)
