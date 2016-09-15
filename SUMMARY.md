@@ -32,6 +32,6 @@
  * [കണ്‍സോള്‍ വിന്‍ഡോ](manuscript/10.05-consoleWindow.md)
  * [വാച്ച് വിൻഡോ](manuscript/10.10-watchWindow.md)
 * [പടിപടിയായി പ്രവര്‍ത്തിപ്പിക്കല്‍](manuscript/10.40-stepByStep.md)
-* [വെബ്‌ സൈറ്റ് നിര്‍മ്മാണത്തില്‍  ജാവാസ്ക്രിപ്റ്റ് ](manuscript/10.md)
+* [വെബ്‌ സൈറ്റ് നിര്‍മ്മാണത്തില്‍  ജാവാസ്ക്രിപ്റ്റ് ](manuscript/11-web.md)
 * [അനുബന്ധം 1](manuscript/Appendix/01-advancedOperators.md)
 * [അനുബന്ധം 2 - എന്താണ് സ്ട്രിക്റ്റ് മോഡ്](Appendix/02-strictMode.md)
