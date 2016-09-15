@@ -30,7 +30,7 @@
  * [ജെസോന്‍](manuscript/08.10-json.md)
 * [തെറ്റ് തിരുത്തൽ](manuscript/10.01-debugging.md)
  * [കണ്‍സോള്‍ വിന്‍ഡോ](manuscript/09.05-consoleWindow.md)
- * [വാച്ച് വിൻഡോ](manuscript/09.10-watchWindow.md)
+ * [വാച്ച് വിൻഡോ](manuscript/10.10-watchWindow.md)
 * [പടിപടിയായി പ്രവര്‍ത്തിപ്പിക്കല്‍](manuscript/09.40-stepByStep.md)
 * [വെബ്‌ സൈറ്റ് നിര്‍മ്മാണത്തില്‍  ജാവാസ്ക്രിപ്റ്റ് ](manuscript/10.md)
 * [അനുബന്ധം 1](manuscript/Appendix/01-advancedOperators.md)
