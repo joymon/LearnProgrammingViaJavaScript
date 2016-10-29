@@ -10,11 +10,12 @@
     <meta charset="utf-8" />
     <title>This is my first HTML Page</title>
 </head>
+
 <body>
     <p> Hi There, this is my first HTML Page.
 </body>
-</html>
 
+</html>
 
 ---
 
