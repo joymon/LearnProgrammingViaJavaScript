@@ -25,3 +25,5 @@ alert(n);
 
 കരെല്‍ എല്ലാ പ്രോഗ്രാമുകളും പ്രവര്‍ത്തിപ്പിക്കുന്നത് ഈ കടുപ്പമുള്ള `strict` മോഡിലാണ്. "use strict" കൊടുത്താലും ഇല്ലെങ്കിലും.
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
