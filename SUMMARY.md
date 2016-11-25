@@ -30,6 +30,7 @@
  * [ജെസോന്‍](manuscript/08.10-json.md)
 * [വ്യത്യസ്ഥതകള്‍](manuscript/09.01-Exception.md)
 * [തെറ്റ് തിരുത്തൽ](manuscript/10.01-debugging.md)
+ * [ബ്രേക്ക്‌ പോയിന്റ്‌](manuscript/10.03-breakPoint.md)
  * [കണ്‍സോള്‍ വിന്‍ഡോ](manuscript/10.05-consoleWindow.md)
  * [വാച്ച് വിൻഡോ](manuscript/10.10-watchWindow.md)
  * [പടിപടിയായി പ്രവര്‍ത്തിപ്പിക്കല്‍](manuscript/10.40-stepByStep.md)

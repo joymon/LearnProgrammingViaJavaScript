@@ -30,6 +30,7 @@
 08.10-json.md
 09.01-Exception.md
 10.01-debugging.md
+10.03-breakPoint.md
 10.05-consoleWindow.md
 10.10-watchWindow.md
 10.40-stepByStep.md
