@@ -33,6 +33,7 @@
  * [ബ്രേക്ക്‌ പോയിന്റ്‌](manuscript/10.03-breakPoint.md)
  * [കണ്‍സോള്‍ വിന്‍ഡോ](manuscript/10.05-consoleWindow.md)
  * [വാച്ച് വിൻഡോ](manuscript/10.10-watchWindow.md)
+ * [അടയാളങ്ങളിടുക](manuscript/10.30-logging.md)
  * [പടിപടിയായി പ്രവര്‍ത്തിപ്പിക്കല്‍](manuscript/10.40-stepByStep.md)
  * [പോമൊടോറൊ](manuscript/10.45-pomodoro.md)
  * [റബ്ബര്‍ ഡക്ക്](manuscript/10.48-rubberDuck.md)
